@@ -1,0 +1,2 @@
+workspace_id,decision_id,suggestion_key,kind,doc_id,doc_number,doc_url,state,pieces,attempts,last_error,created_at,updated_at
+29,102,SST004,zoho,4365256000000044054,PO-00001,https://inventory.zoho.in/app/60096793689#/purchaseorders/4365256000000044054,draft,210,4,,2026-11-19T09:30:39.038Z,2026-11-19T09:34:26.587Z

@@ -1,0 +1,4 @@
+supplier_id,supplier_name,type,city,lead_time_days,payment_terms_days,workspace_id
+THV1,Illustrative supplier 1,Outside vendor,Bangkok,11,30,29
+THV2,Illustrative supplier 2,Outside vendor,Samut Sakhon,15,30,29
+THV3,Illustrative supplier 3,Outside vendor,Chonburi,19,30,29

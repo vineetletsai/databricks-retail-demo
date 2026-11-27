@@ -1,0 +1,13 @@
+store_id,route_id,route_name,run_day,vehicle_cost_per_run,stop_order,workspace_id
+S01,TH-R1,Regional run 1,Mon / Thu,1800,1,29
+S02,TH-R1,Regional run 1,Mon / Thu,1800,2,29
+S03,TH-R1,Regional run 1,Mon / Thu,1800,3,29
+S04,TH-R1,Regional run 1,Mon / Thu,1800,4,29
+S05,TH-R1,Regional run 1,Mon / Thu,1800,5,29
+S06,TH-R2,Regional run 2,Mon / Thu,1800,1,29
+S07,TH-R2,Regional run 2,Mon / Thu,1800,2,29
+S08,TH-R2,Regional run 2,Mon / Thu,1800,3,29
+S09,TH-R2,Regional run 2,Mon / Thu,1800,4,29
+S10,TH-R2,Regional run 2,Mon / Thu,1800,5,29
+S11,TH-R3,Regional run 3,Mon / Thu,1800,1,29
+S12,TH-R3,Regional run 3,Mon / Thu,1800,2,29

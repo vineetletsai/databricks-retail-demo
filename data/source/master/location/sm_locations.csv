@@ -1,0 +1,14 @@
+store_id,store_name,town,state,status,climate_zone,grade,opened_on,fashion_area_sqft,workspace_id
+S01,Bangkok Siam Square,Bangkok Siam Square,Thailand,open,plains,A,2024-09-14T00:00:00.000Z,2200,29
+S02,Bangkok Silom,Bangkok Silom,Thailand,open,plains,A,2024-09-14T00:00:00.000Z,2200,29
+S03,Bangkok Chatuchak,Bangkok Chatuchak,Thailand,open,plains,A,2024-09-14T00:00:00.000Z,2200,29
+S04,Bangkok Bang Sue,Bangkok Bang Sue,Thailand,open,plains,A,2024-09-14T00:00:00.000Z,2200,29
+S05,Nonthaburi,Nonthaburi,Thailand,open,plains,B,2024-09-14T00:00:00.000Z,1700,29
+S06,Chiang Mai,Chiang Mai,Thailand,open,plains,B,2024-09-14T00:00:00.000Z,1700,29
+S07,Khon Kaen,Khon Kaen,Thailand,open,plains,B,2024-09-14T00:00:00.000Z,1700,29
+S08,Pattaya,Pattaya,Thailand,open,plains,B,2024-09-14T00:00:00.000Z,1700,29
+S09,Hua Hin,Hua Hin,Thailand,open,plains,C,2024-09-14T00:00:00.000Z,1200,29
+S10,Phuket,Phuket,Thailand,open,plains,C,2024-09-14T00:00:00.000Z,1200,29
+S11,Hat Yai,Hat Yai,Thailand,open,plains,C,2024-09-14T00:00:00.000Z,1200,29
+S12,Udon Thani,Udon Thani,Thailand,open,plains,C,2024-09-14T00:00:00.000Z,1200,29
+W01,"Stride DC, Bang Na","Stride DC, Bang Na",Thailand,warehouse,plains,A,,,29

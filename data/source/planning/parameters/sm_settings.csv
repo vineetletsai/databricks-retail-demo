@@ -1,0 +1,35 @@
+setting,value,meaning,workspace_id
+approve_suggestions_days,2,"Assumption: benchmark-based, replace with your own values",29
+arrival_slack,3,Arrival slack (days),29
+cash_targets,"{""ordered"":[20,45],""transit"":[3,10],""warehouse"":[15,30],""stores"":[30,50],""returns"":[0,3]}",Healthy stock ranges in days of sales,29
+coverage_horizon_days,60,Coverage window (days),29
+dead_after_days_unsold,60,"Assumption: benchmark-based, replace with your own values",29
+demo_chain,"{""version"":1,""key"":""siam-stride"",""erp"":""zoho"",""heroStoreId"":""S06"",""warehouseId"":""W01""}","Assumption: benchmark-based, replace with your own values",29
+demo_receipt_stock_sync,true,"Assumption: benchmark-based, replace with your own values",29
+excess_cover_days,110,Excess stock cover (days),29
+graphical_timelines_enabled,true,"Assumption: benchmark-based, replace with your own values",29
+moves_due_days,3,"Assumption: benchmark-based, replace with your own values",29
+outlook_horizon_weeks,4,Demand outlook horizon (weeks),29
+outlook_range_width_pct,100,Forecast range width (% of measured error),29
+outlook_season_ends,"{""AW"":""02-28"",""SS"":""08-31""}",Season ends (month-day),29
+outlook_trend_cap_pct,20,Maximum demand trend change (%),29
+overview_assumptions,"{""warehouseDays"":25,""storesDays"":90,""transitDays"":5,""healthyPct"":10,""returnsPct"":2,""recoveryNowPct"":80,""recoveryDeadPct"":20}","Assumption: benchmark-based, replace with your own values",29
+overview_enabled,true,"Assumption: benchmark-based, replace with your own values",29
+poc_assumptions,"{""version"":1,""label"":""Assumption: benchmark-based, replace with your own values"",""asOf"":""2026-11-18"",""benchmarks"":{""S01"":{""variation"":0.97},""S02"":{""variation"":0.985},""S03"":{""variation"":1},""S04"":{""variation"":1.015},""S05"":{""variation"":1.03},""S06"":{""variation"":0.97},""S07"":{""variation"":0.985},""S08"":{""variation"":1},""S09"":{""variation"":1.015},""S10"":{""variation"":1.03},""S11"":{""variation"":0.97},""S12"":{""variation"":0.985}},""rangePlan"":true,""fictional"":true}","Assumption: benchmark-based, replace with your own values",29
+primary_suite,"""retail""","Assumption: benchmark-based, replace with your own values",29
+receive_check_days,3,"Assumption: benchmark-based, replace with your own values",29
+retail_modules,"{""cash"": true, ""brief"": true, ""range"": true, ""buying"": true, ""outlook"": true, ""stock-mover"": true}","Assumption: benchmark-based, replace with your own values",29
+slow_above_days,90,"Assumption: benchmark-based, replace with your own values",29
+store_health_thresholds,"{""salesRed"":80,""salesAmber"":95,""availabilityRed"":85,""availabilityAmber"":90,""availabilityMode"":""fixed"",""availabilityRedGap"":8,""availabilityAmberGap"":4,""stuckRed"":30,""stuckAmber"":20,""salesTargets"":{}}","Assumption: benchmark-based, replace with your own values",29
+team_meeting_pct,94,"Assumption: benchmark-based, replace with your own values",29
+team_watch_pct,90,"Assumption: benchmark-based, replace with your own values",29
+tuesday_outlook_hidden,true,Initial demo navigation upgrade,29
+workflow_delivery_days,3,"Assumption: benchmark-based, replace with your own values",29
+workflow_dispatch_days,2,"Assumption: benchmark-based, replace with your own values",29
+workflow_pick_days,1,"Assumption: benchmark-based, replace with your own values",29
+workflow_pickup_days,1,"Assumption: benchmark-based, replace with your own values",29
+workflow_review_days,1,"Assumption: benchmark-based, replace with your own values",29
+workflow_shelf_days,1,"Assumption: benchmark-based, replace with your own values",29
+workspace_locale,"{""currency"":""THB"",""numberSystem"":""international"",""sample"":true,""benchmarkLabel"":""Assumption: benchmark-based, replace with your own values""}","Assumption: benchmark-based, replace with your own values",29
+sample_data_clock,"{""version"":1,""enabled"":true,""permanentlyDisabled"":false,""offsetDays"":5,""anchor"":""2026-11-18"",""source"":""demo-chain:siam-stride""}","Assumption: benchmark-based, replace with your own values",29
+retail_data_version,2026-11-23 18:39:12.226559+00,Retail data revision,29
